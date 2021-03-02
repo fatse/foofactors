@@ -13,8 +13,7 @@ Description: Factors have driven people to extreme measures, like ordering
     be made less maddening? Let's find out. 
     Note: This is an experimental R package as 
     part of individual assignment for DSCI-524 UBC-MDS program.
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
